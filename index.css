@@ -6,7 +6,7 @@ body {
 }
 
 header {
-  font-size: 0.8em;
+  font-size: 1em;
   width: 100%;
   color: White;
   text-shadow: 2px 1px 2px black;
@@ -33,6 +33,10 @@ nav {
   color: green;
   border-color: Yellow;
   padding color: yellow;
+  padding left:100px;
+  Padding right: 100px;
+  border-color: black;
+  border-width: thick;
   /*margin-left:25%;*/
   heigth: 100%;
 
@@ -40,8 +44,8 @@ nav {
 #types{
   display: inline-block; width: 25%;
   float:left;
-  height: 80%;
-  background-color: green;
+  height: 75%;
+  background-color: green; height: 83%;
   /*margin-left: 75%;*/
 
 }
